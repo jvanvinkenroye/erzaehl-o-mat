@@ -16,4 +16,4 @@ Jan Vanvinkenroye
 <jan.vanvinkenroye@tik.uni-stuttgart.de>
 
 Claus Wilcke  
-<claus.wilcke@ph-Ludwigsburg.de>
+<claus.wilcke@ph-ludwigsburg.de>
