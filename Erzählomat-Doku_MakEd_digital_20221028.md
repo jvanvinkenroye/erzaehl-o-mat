@@ -318,6 +318,14 @@ Zusätzlich gibt es noch die Ordner /mp3 und /advert. Hier werden einige Dateien
 
 ![Screenshot der Dateistruktur auf der Micro-SD-Karte"](erzaehlomat-doku-grafik/dateistruktur-sd-karte.jpg)
 
+Die Dateien in den jeweiligen Ordnern müssen dann, um automatisch abrufbar zu sein, disen Namenskonventionen folgen:  
+  - Keine Leerzeichen in den Dateinamen
+  - Jeder Name beginnt mit einer dreistelligen Nummer, wobei die Nummerierung mit 001 beginnt
+
+![Beispielhafte Namengebung der Dateiuen in einem Ordner der SC-Karte. (Ordner hier noch vor dem Upload und daher lesbar beschriftet)](erzaehlomat-doku-grafik/mp3-taxonomie-erzaehlbox.jpg)
+
+mp3-taxonomie-erzaehlbox.jpg)
+
 **Wichtiger Hinweis! - SD-Karte sauber halten!**
 
 Das DF-Player Mini Modul ist sehr zickig wenn es um die SD-Karte geht. Dort dürfen keine unnötigen Dateien herumliegen wie sie zum Beispiel von MacOS dort abgelegt werden (Spotlight und Co.). Besser geeignet ist also Linux oder Windows um die SD-Karte zu bespielen.
